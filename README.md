@@ -1,2 +1,2 @@
-# all-about-DSA
+# All-about-DSA
 Best DSA Sheet
